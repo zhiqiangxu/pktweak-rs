@@ -1,0 +1,11 @@
+[package]
+name = "pktweak"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4.3"
+blst = "0.3.12"
+
+[dev-dependencies]
+rand = "0.8.5"
